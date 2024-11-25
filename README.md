@@ -15,6 +15,6 @@ Demoscene: <img src="https://github.com/alkama/alkama/raw/master/images/demozoo.
 
 Music: [🎶Soundcloud](https://soundcloud.com/alkama) / [💿Mixcloud](https://www.mixcloud.com/Alkama/)
 
-Video: [📺YouTube](https://www.youtube.com/channel/UCSyrwyJf6cs-PnlqHL8QWfA) / [🎮Twitch](https://www.twitch.tv/alkama)
+Video: [📺YouTube](https://www.youtube.com/@alkamadotcom/featured) / [🎮Twitch](https://www.twitch.tv/alkama)
 
 Social: [🦋Bluesky](https://bsky.app/profile/alkama.bsky.social) / [🐘Mastodon](https://mastodon.social/@alkama) / [📷Instagram](https://www.instagram.com/alkama_music/) / [👯Facebook](https://www.facebook.com/AlkamaMusic) / ~~[🐦Twitter](https://twitter.com/alkama)~~
